@@ -1,0 +1,6 @@
+model_checkpoint_path: "acc0.613_36.ckpt-35"
+all_model_checkpoint_paths: "acc0.588_4.ckpt-3"
+all_model_checkpoint_paths: "acc0.588_6.ckpt-5"
+all_model_checkpoint_paths: "acc0.593_8.ckpt-7"
+all_model_checkpoint_paths: "acc0.605_10.ckpt-9"
+all_model_checkpoint_paths: "acc0.613_36.ckpt-35"
