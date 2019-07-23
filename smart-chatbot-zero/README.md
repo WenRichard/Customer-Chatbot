@@ -86,6 +86,9 @@ The project consists of two parts, one is **recall model based on the tf-idf**, 
 ## 3.1 聊天结束 (chat end)  
 ![结束图]( https://github.com/WenRichard/Customer-Chatbot/raw/master/smart-chatbot-zero/data/corpus1/chat/image/chat-end.png "闲聊图") 
 
+对于recall模型的具体介绍在：  
+[基于tf-idf的问答机器人](https://github.com/WenRichard/QAmodel-for-Retrievalchatbot/tree/master/QAdemo_base1)
+
  --------------------------------------------------------------
 **如果觉得我的工作对您有帮助，请不要吝啬右上角的小星星哦！欢迎Fork和Star！也欢迎一起建设这个项目！**    
 **有时间就会更新问答相关项目，有兴趣的同学可以follow一下**  
