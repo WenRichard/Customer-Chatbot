@@ -1,5 +1,5 @@
 # 中文智能客服聊天机器人 
-## Chinese Customer Chatbot(first version)
+## Chinese Customer Chatbot(First version)
     
 ## The introduction of the project in english will be introduced after the chinese introduction, Please read patiently ！    
 ## 介绍
