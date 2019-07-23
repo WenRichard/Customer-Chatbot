@@ -7,7 +7,7 @@
 
 ## 环境配置  
   
-  Python版本为3.6
+  Python版本为3.6  
   tensorflow版本为1.13  
   
 ### 目录说明
