@@ -77,13 +77,13 @@ The project consists of two parts, one is **recall model based on the tf-idf**, 
 
 ![闲聊图]( https://github.com/WenRichard/Customer-Chatbot/raw/master/smart-chatbot-zero/data/corpus1/chat/image/recall2.png "闲聊图") 
 
-### 1.2 闲聊模式：recall+rerank阶段 (chat model, only consists recall)  
+### 1.2 闲聊模式：recall+rerank阶段 (chat model, consists both recall and rerank)  
 ![闲聊图]( https://github.com/WenRichard/Customer-Chatbot/raw/master/smart-chatbot-zero/data/corpus1/chat/image/rerank1.png "闲聊图") 
    
 ### 2.1 FAQ问答模式：只有recall阶段 (faq model, only consists recall)  
 ![FAQ问答图]( https://github.com/WenRichard/Customer-Chatbot/raw/master/smart-chatbot-zero/data/corpus1/chat/image/faq.png "闲聊图") 
    
-## 3.1 聊天结束 (chat end)  
+### 3.1 聊天结束 (chat end)  
 ![结束图]( https://github.com/WenRichard/Customer-Chatbot/raw/master/smart-chatbot-zero/data/corpus1/chat/image/chat-end.png "闲聊图") 
 
 对于recall模型的具体介绍在：  
