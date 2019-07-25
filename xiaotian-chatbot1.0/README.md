@@ -3,9 +3,7 @@
     
 ## The introduction of the project in english will be introduced after the chinese introduction, Please read patiently ！    
 ## 介绍
-本项目由两个部分组成，一是基于tf-idf检索的召回模型，二是基于CNN的精排模型，本项目将两者融合，构建 召回+排序 的客服聊天机器人。  
-系统支持闲聊模式和FAQ问答模式，采取的数据分别为小黄鸡闲聊数据集和垂直领域的FAQ问答数据集。该聊天机器人的版本为小天1.0，速度提升  
-的小天2.0版本会在后期陆续上传。  
+本项目由两个部分组成，一是基于tf-idf检索的召回模型，二是基于CNN的精排模型，本项目将两者融合，构建 召回+排序 的客服聊天机器人。系统支持闲聊模式和FAQ问答模式，采取的数据分别为小黄鸡闲聊数据集和垂直领域的FAQ问答数据集。该聊天机器人的版本为小天1.0，速度提升的小天2.0版本会在后期陆续上传。  
 
 ## 环境配置  
   
@@ -77,9 +75,11 @@ The project consists of two parts, one is **recall model based on the tf-idf**, 
 ###  FAQ问答模式：只有recall阶段 (faq model, only consists recall)  
 ![FAQ问答图]( https://github.com/WenRichard/Customer-Chatbot/raw/master/smart-chatbot-zero/data/corpus1/chat/image/faq.png "闲聊图") 
    
-如果想要获取更详细的效果图，可以看[基于tf-idf的问答机器人](https://github.com/WenRichard/QAmodel-for-Retrievalchatbot/tree/master/QAdemo_base1)
+如果想要获取更详细的效果图，可以看  
+[问答系统实践（二）构建聊天机器人小天1.0](https://zhuanlan.zhihu.com/p/75108562)  
 对于recall模型的具体介绍在：  
-[基于tf-idf的问答机器人](https://github.com/WenRichard/QAmodel-for-Retrievalchatbot/tree/master/QAdemo_base1)
+[问答系统实践（一）：中文检索式问答机器人初探](https://zhuanlan.zhihu.com/p/61513395)  
+[基于tf-idf的问答机器人](https://github.com/WenRichard/QAmodel-for-Retrievalchatbot/tree/master/QAdemo_base1)  
 
  --------------------------------------------------------------
 **如果觉得我的工作对您有帮助，请不要吝啬右上角的小星星哦！欢迎Fork和Star！也欢迎一起建设这个项目！**    
