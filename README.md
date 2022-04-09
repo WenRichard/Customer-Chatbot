@@ -19,3 +19,16 @@ Chinese intelligent customer chatbot Demo, including the gossip and the professi
 三、加入了简单的倒排索引，优化了检索流程  
   
 本项目依靠route函数进行问答任务转换，分为 chat模式 和 faq 模式，这样做的目的主要是系统可以根据不同的任务设置不同的情景对话，同时系统将2个语料集分开管理，避免了搜索时间的增加。目前的效果是如果你不输入end终止对话，那么你可以在对话中进行chat模式和faq模式的随意转化，随心所欲！
+
+
+ **Cite**     
+如果你在研究中使用了xiaotian-chatbot1.0，请按如下格式引用：  
+
+```
+@software{xiaotian-chatbot1.0,
+  author = {ZhengWen Xie},
+  title = {xiaotian-chatbot1.0: A Customer-Chatbot System},
+  year = {2019},
+  url = {https://github.com/WenRichard/Customer-Chatbot},
+}
+```
